@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zac
 
-<!--
-**zachattack323/zachattack323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focused apps. Thoughtful interfaces. Useful experiments.
 
-Here are some ideas to get you started:
+I build apps and explore how software can make everyday tools simpler. My projects span Kotlin, SwiftUI, and the web, with an interest in calm interfaces and practical utilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Light RSS](https://github.com/zachattack323/LightRSS)
+
+A quiet RSS and Atom reader for the **Light Phone III**, built with Kotlin and the Light SDK. Subscriptions, reading state, saved articles, and search stay on the phone, with downloaded feed text available offline.
+
+<p>
+  <img src="https://raw.githubusercontent.com/zachattack323/LightRSS/main/docs/screenshots/inbox.png" width="220" alt="Light RSS unread inbox in dark mode" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/zachattack323/LightRSS/main/docs/screenshots/reader.png" width="220" alt="Light RSS focused text reader" />
+</p>
+
+[Explore the project →](https://github.com/zachattack323/LightRSS#readme)
+
+## More experiments
+
+| Project | What I'm exploring | Built with |
+| :--- | :--- | :--- |
+| [āro](https://github.com/zachattack323/a-ro) | An experimental browser interface with a compact address control. | SwiftUI · WebKit |
+| [Orange](https://github.com/zachattack323/Orange) | A weather app prototype for looking up conditions, temperature, and UV index by location. | Python · Flask · JavaScript |
+
+## In my toolkit
+
+**Kotlin · Swift · SwiftUI · Python · JavaScript**
+
+I use this space for projects, prototypes, and things I'm learning along the way.
